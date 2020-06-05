@@ -1,0 +1,32 @@
+﻿  31 Граф.cpp
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(244,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(237): message : во время компиляции функции-члена класс шаблон "int Graph<int>::Dijkstra(T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(344): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::Dijkstra(T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(295): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(253,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(257,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(269,17): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(280,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(70): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(186): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(52): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(295): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+C:\Users\ЛАВА\source\repos\31 Граф\31 Граф\31 Граф.cpp(287): warning C4715: Graph<int>::Dijkstra: значение возвращается не при всех путях выполнения
+  31 Граф.vcxproj -> C:\Users\ЛАВА\source\repos\31 Граф\Debug\31 Граф.exe
